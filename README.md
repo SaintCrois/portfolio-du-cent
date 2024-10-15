@@ -1,6 +1,5 @@
 ---
 name: Portfolio
-slug: Portfolio for CPE-101
 description: Created by Punnapob Wirojwongchai 67070503425
 deployUrl: https://portfolio-du-cent-git-main-saintcrois-projects.vercel.app/
 ---
