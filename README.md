@@ -1,7 +1,7 @@
 ---
-name: HTML Starter
-slug: html-starter-with-analytics
-description: HTML5 template with analytics and advanced routing configuration.
+name: Portfolio
+slug: Portfolio for CPE-101
+description: Created by Punnapob Wirojwongchai 67070503425
 deployUrl: https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html
 relatedTemplates:
   - nextjs-boilerplate
