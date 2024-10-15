@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        .me{
+    size: 100px 500px;
+}
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css";>
+</head>
+<body>
+    <h1 class="h1">
+        <a href="#home" class="port">Portfolio</a>
+
+        <nav class="nav">
+            <a href="#info">my-Info</a>
+            <a href="#edu">my-Education</a>
+            <a href="#skill">my-Skills</a>
+        </nav>
+
+        <a href="#footer" class="contact">Contact</a>
+    </h1>
+    
+    <section class="home" id="home">
+        <div class="htext">
+            <h6>Portfolio</h6>
+
+            <h1>Hello! Welcome to my Portfolio. <br>
+                Created by Punnapob Wirojwongchai.
+            </h1>
+        </div>
+        <div>
+            <img class="img" src="Skibidi_face.jpg" width="375." height="515">
+        </div>
+    </section>
+    </div>
+    <section class="info" id="info">
+        <div class="itext">
+            <h6>my-Info</h6><br>
+    
+            <p>Name: Punnapob Wirojwongchai <br>
+                Sex: Male <br>
+                Age: 18 <br>
+                Birth: 20 December 2005 <br>
+                Adress: CharoenKrung Rd, Bang kho Laem District, Bang Kho Laem sub-District, Bangkok, Thailand 10120 <br>
+                MTBI: INFJ
+
+            </p>
+
+    </section>
+
+    <section class="edu" id="edu">
+        <div class="etext">
+            <h6>my-Education</h6><br>
+            <p>
+                <span>Primary Education: Assumption College Primary Section</span> 
+                <a href="https://www.acp.ac.th/">
+                    <img class="ACP" src="AC.png" width="50" height="50">
+                </a>
+            </p>
+            <p>
+                <span>Secondary Education: Assumption College (Bangrak)</span>
+                <a href="https://www.assumption.ac.th/">
+                    <img class="AC" src="AC.png" width="50" height="50">
+                </a>
+            </p>
+            <p>
+                <span>Bachelor Degree (1st Year Student): King Mongkut's University of Technology Thonburi</span>
+                <a href="https://www.kmutt.ac.th/">
+                    <img src="image-removebg-preview.png" width="50" height="50" alt="">
+                </a>
+            </p>
+        </div>
+    </section>
+    
+
+
+    <section class="skill" id="skill">
+        <div class="stext">
+            <h6>my-Skill</h6> <br>
+    
+            <p>
+                To be honest, I don't have one.
+            </p>
+
+    </section>
+
+    <footer class="footer" id="footer">
+        <div class="social">
+            <h6>my-Contact</h6> 
+            <p>
+                <a href="https://www.instagram.com/cent_pwc/">
+                    <img class="IG" src="instagram-logo-24.png" width="50" height="50" alt="">
+                </a>
+                <span>@cent_pwc</span>
+            </p>
+            <p>
+                <a href="https://www.facebook.com/punnapob.wirojwongchai/">
+                    <img class="FB" src="facebook-square-logo-24.png" width="50" height="50" alt="">
+                </a>
+                <span>Punnapob Wirojwongchai</span>
+            </p>
+        </div>
+    </footer>
+
+</body>
+</html>
