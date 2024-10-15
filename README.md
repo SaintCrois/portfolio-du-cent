@@ -7,8 +7,8 @@ relatedTemplates:
   - nextjs-boilerplate
 ---
 
-# HTML Starter
+# Special Thanks.
 
-This is a starter HTML5 templates which is configured with Vercel Analytics (through a `script` tag), advanced routing with [Vercel Edge Middleware](https://vercel.com/docs/concepts/functions/edge-middleware), as well as some basic styles
+This project could not be posible without helps I received from friends and chat-gpt who helped me design and created good alignment for this project.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html)
