@@ -11,7 +11,3 @@ deployUrl: https://portfolio-du-cent-git-main-saintcrois-projects.vercel.app/
 
 This project could not be posible without helps I received from friends and chat-gpt who helped me design and created good alignment for this project.
 
-# THANKYOU [**Beyoncé**](https://www.instagram.com/beyonce/)
-
-Added just for good measure.
-
