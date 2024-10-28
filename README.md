@@ -11,3 +11,5 @@ deployUrl: https://portfolio-du-cent-git-main-saintcrois-projects.vercel.app/
 
 This project could not be posible without helps I received from friends and chat-gpt who helped me design and created good alignment for this project.
 
+# All Logos can be clicked and linked to external Page. Please click it.
+
